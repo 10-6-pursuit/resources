@@ -1,3 +1,5 @@
+# Links by date and topics
+
 * [11/20 - Control Flow Lesson Part 2](https://us06web.zoom.us/rec/share/nh97-y7P9HblwG8geT_MKx-U8srjbcqth8-Xx-tQujIyOKZarjb7BmuA9mBg9iai.enVYBToH8tXymcvj?startTime=1700529371000)
 * [11/21 - Functions Lesson Part 1](https://us06web.zoom.us/rec/share/j1cpjyXPyS2TptKMVXnvOPAUkW4Xo-a9dTPVq-XKrB81D9loAsyM0tWvHx7V40ex.KW_-VkgUaFMWZtg-?startTime=1700609580000)
 * [11/27 - Intro To Scope Lesson](https://us06web.zoom.us/rec/share/AhYDPTTANK3nd5twgilYq-6BEzs_cdPnutcg3DhPJEKxl4IOCKIYDBbKhzPbIMHz.9eObVdubCjw3Xxyj?startTime=1701131874000)
