@@ -38,4 +38,6 @@
 * [12/31 - Winter Review Day 6 Objects Lesson](https://replit.com/@youssefmohamedfarouk/Objects-Review#index.js)
 * [1/2 - Native Array Methods and Functions Review](https://replit.com/@RazEfron/Arrow-higher-order-and-callback-functions#index.js)
 * [1/2 - Native Array Methods and Functions Practice](https://replit.com/@RazEfron/Native-Array-Methods-Practice#index.js)
+* [1/6 - Native Array Methods Coding Challenge](https://replit.com/@RazEfron/16-Coding-Warmup#index.js)
+* [1/7 - Arrays and Loops Coding Challenge](https://replit.com/@youssefmohamedfarouk/17-Coding-Warmup#index.js)
 
