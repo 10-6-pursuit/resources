@@ -40,4 +40,5 @@
 * [1/2 - Native Array Methods and Functions Practice](https://replit.com/@RazEfron/Native-Array-Methods-Practice#index.js)
 * [1/6 - Native Array Methods Coding Challenge](https://replit.com/@RazEfron/16-Coding-Warmup#index.js)
 * [1/7 - Arrays and Loops Coding Challenge](https://replit.com/@youssefmohamedfarouk/17-Coding-Warmup#index.js)
-
+* [1/8 - Nested Loops Coding Challenge](https://replit.com/@RazEfron/18-Coding-Challenge#index.js)
+* [1/8 - Evaluating Exoressions Lesson](https://replit.com/@youssefmohamedfarouk/18-Evaluating-Expressions#index.js)
