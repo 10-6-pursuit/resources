@@ -42,3 +42,5 @@
 * [1/7 - Arrays and Loops Coding Challenge](https://replit.com/@youssefmohamedfarouk/17-Coding-Warmup#index.js)
 * [1/8 - Nested Loops Coding Challenge](https://replit.com/@RazEfron/18-Coding-Challenge#index.js)
 * [1/8 - Evaluating Exoressions Lesson](https://replit.com/@youssefmohamedfarouk/18-Evaluating-Expressions#index.js)
+* [1/9 - Coding Challenge Median and Sum of Odd Squares](https://replit.com/@RazEfron/Coding-Challenge-19#index.js)
+* [1/9 - GitHub Group Work](https://replit.com/@RazEfron/Github-Group-work#index.js)
