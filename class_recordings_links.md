@@ -27,3 +27,4 @@
 * [1/7 - Nested Loops Lesson](https://us06web.zoom.us/rec/share/iFu0sRcWb3oqDMERYtNoSWR55YLQHCAvfkLf9UgFBcO4I6j-BEhAnUF6BQoZYh5-.fRZ622Nq4-JVFXYK?startTime=1704638431000)
 * [1/7 - Accumulator Pattern Lesson](https://us06web.zoom.us/rec/share/iFu0sRcWb3oqDMERYtNoSWR55YLQHCAvfkLf9UgFBcO4I6j-BEhAnUF6BQoZYh5-.fRZ622Nq4-JVFXYK?startTime=1704654562000)
 * [1/8 - Evaluating Expressions Lesson and coding Challenge](https://us06web.zoom.us/rec/share/lsx5Uz-ynVlcW_OIrZkWTfbTXkt1VY2oi42q-x37dNZpjz1ED-zDVz4LoXakX5Uc.M9m0_V354US-634P?startTime=1704756031000)
+* [1/9 - Git and Github forking and basics review](https://us06web.zoom.us/rec/share/Tp0qnz3fcwnCLMRK4RmHWs66ZVGmSr0VNcZFq3eeexRxL07wairpsnzCnVqYbQVd.cHNr3xhdTPEX79Qg?startTime=1704841342000)
