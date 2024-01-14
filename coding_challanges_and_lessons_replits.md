@@ -44,3 +44,7 @@
 * [1/8 - Evaluating Exoressions Lesson](https://replit.com/@youssefmohamedfarouk/18-Evaluating-Expressions#index.js)
 * [1/9 - Coding Challenge Median and Sum of Odd Squares](https://replit.com/@RazEfron/Coding-Challenge-19#index.js)
 * [1/9 - GitHub Group Work](https://replit.com/@RazEfron/Github-Group-work#index.js)
+* [1/13 - Coding Challenge Reference Types](https://replit.com/@RazEfron/113-Coding-Challenge#index.js)
+* [1/13 - Big O Lesson Notes](https://replit.com/@RazEfron/Big-O-Lesson-Notes#readme.md)
+* [1/14 - Coding Challenge](https://replit.com/@RazEfron/114-Coding-Challenge#index.js)
+* [1/14 - Modern JS Lesson Notes](https://replit.com/@youssefmohamedfarouk/Modern-JS-Features#index.js)
