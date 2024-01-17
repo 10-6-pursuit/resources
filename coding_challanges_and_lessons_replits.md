@@ -48,3 +48,4 @@
 * [1/13 - Big O Lesson Notes](https://replit.com/@RazEfron/Big-O-Lesson-Notes#readme.md)
 * [1/14 - Coding Challenge](https://replit.com/@RazEfron/114-Coding-Challenge#index.js)
 * [1/14 - Modern JS Lesson Notes](https://replit.com/@youssefmohamedfarouk/Modern-JS-Features#index.js)
+* [1/16 - Tic Tac Toe Coding Challenge](https://replit.com/@RazEfron/Coding-Challenge-116#index.html)
