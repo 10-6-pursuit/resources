@@ -50,3 +50,8 @@
 * [1/14 - Modern JS Lesson Notes](https://replit.com/@youssefmohamedfarouk/Modern-JS-Features#index.js)
 * [1/15 - Youssef's bonus MLK review session](https://replit.com/@youssefmohamedfarouk/Practice-Session)
 * [1/16 - Tic Tac Toe Coding Challenge](https://replit.com/@RazEfron/Coding-Challenge-116#index.html)
+* [1/20 - Written Coding Challenge](https://replit.com/@RazEfron/Coding-Challenge-120#index.js)
+* [1/21 - Coding Challenge](https://replit.com/@RazEfron/Coding-Challenge-121#index.js)
+* [1/21 - DSA Two Pointers Lesson](https://replit.com/@youssefmohamedfarouk/Two-Pointers-Lesson#index.js)
+* [1/22 - DSA Two Pointers and Sliding Window Exercise](https://replit.com/@youssefmohamedfarouk/Two-Pointers-and-Sliding-Windows)
+  
