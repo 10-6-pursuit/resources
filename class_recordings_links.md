@@ -31,3 +31,4 @@
 * [1/14 - Modern JS Lesson](https://us06web.zoom.us/rec/share/F9GEaHU0AASghra7gsvNkHXkRFeZTOHmH1DQw1Qt190WWcbEq7hldZPGMKEVtnWL.ELcs420CwJaP-PCt?startTime=1705242671000)
 * [1/14 - Reference Types Lab Review](https://us06web.zoom.us/rec/share/F9GEaHU0AASghra7gsvNkHXkRFeZTOHmH1DQw1Qt190WWcbEq7hldZPGMKEVtnWL.ELcs420CwJaP-PCt?startTime=1705268418000)
 * [1/16 - Tic Tac Toe Challenge and Independent Studying Project Kick-off](https://us06web.zoom.us/rec/share/QHjicUy3fkHZ93o52rjmB3SGK78HcGgGs1b5C2HQgjVwzTscYBdvkm941XRi5OS4.kOMjXhx4fcDuYVCJ?startTime=1705450786000)
+* [1/21 - Dinosaur Museum Project Kick-off](https://us06web.zoom.us/rec/play/10cD6Pqg29-Ll2z4EAVpAXx02HD4wT88Hdjs02wsxIH68EpFY18cfYHQtNNgi2N04T5qsAFbIpoDkwzN.zO0maUs6utpioKBY?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fn0URVlLwIx1fb8kWOc8GOBsAGoieqRDwhi7YeVB7IbzBFUPjpzoWfVfpNsryhDL-.3VBAmGOkwBZMfRT6)
