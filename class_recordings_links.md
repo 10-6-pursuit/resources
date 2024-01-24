@@ -33,5 +33,4 @@
 * [1/16 - Tic Tac Toe Challenge and Independent Studying Project Kick-off](https://us06web.zoom.us/rec/share/QHjicUy3fkHZ93o52rjmB3SGK78HcGgGs1b5C2HQgjVwzTscYBdvkm941XRi5OS4.kOMjXhx4fcDuYVCJ?startTime=1705450786000)
 * [1/21 - Dinosaur Museum Project Kick-off](https://us06web.zoom.us/rec/play/10cD6Pqg29-Ll2z4EAVpAXx02HD4wT88Hdjs02wsxIH68EpFY18cfYHQtNNgi2N04T5qsAFbIpoDkwzN.zO0maUs6utpioKBY?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fn0URVlLwIx1fb8kWOc8GOBsAGoieqRDwhi7YeVB7IbzBFUPjpzoWfVfpNsryhDL-.3VBAmGOkwBZMfRT6)
 * [1/22 - DSA Group: Two Pointers (Passcode: j0Rbiv$S)](https://us06web.zoom.us/rec/share/XgvOsHeEj6UG8_4IDv3f4epxGe_HNxF7TcZpxLBzEwCk1ckoNFBaveODP48lThUT.VrJ4UklsXMPAlLLD?startTime=1705970230000)
-
-Passcode: j0Rbiv$S
+* [1/23 - DSA Group: Two Pointers Continued (Passcode: @4s+.wG6)](https://us06web.zoom.us/rec/share/jJlnaPhuwBEDMO3klhZpnbpsC61F7E6D8DbXNQ4KJ2ZOK3_iB2Xm4fy5s0WHYXk9.40nURsmYWYvED4XD?startTime=1706053418000)
