@@ -52,3 +52,5 @@
 * [3/10 - CSS Box Model Lab Review](https://us06web.zoom.us/rec/share/f8aBJm2skB_NyimUqeSi_vz1Zq1D0_MZXNYHh1p7jlHNV248su2FNG6TBb75YNhP.-McpArceqrH3fQbr?startTime=1710094078000)
 * [3/11 - Todo App Review Part 2](https://us06web.zoom.us/rec/share/iESWzQyzxIVufLXwagqucty9SEDAMnx-ZLrhTBaeSa_WkI4htOKTgsJ5CXIrAys-.FN8IaG6DLrTlArEs?startTime=1710197351000)
 * [3/17 - HTML CSS & JS Review Session](https://us06web.zoom.us/rec/share/-WY62bN5b2Xeruu9eiCzF2g1sstY5H2oeWqZkmVZD2NpagAcG2gmqYfcUG9WuYp_.VWJm9pWW1p3dD0ok?startTime=1710707754000)
+* [3/25 - React Props Session](https://us06web.zoom.us/rec/share/-WASB76ql_RjrTGlyNBQcCQX1WJzedDmJlbafe0LcUGnhAK6upNyHKkY1aHdPw.MbnEvgPqwVuMTJfT?startTime=1711410973000)
+* [3/26 - More React Props](https://us06web.zoom.us/rec/share/pDUvvje3-1klPVKnJWUsTFNucIZAlRrvqgbVtoYeg_uIHWh6JO4L_VXKk1_BUAr7.zEOEXwcWpZuM4XHA?startTime=1711491581000)
