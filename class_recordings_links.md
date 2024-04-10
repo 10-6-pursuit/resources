@@ -62,3 +62,4 @@
 * [4/7 - React Inventory App Coding Warmup, Forms](https://us06web.zoom.us/rec/share/6JscB3Sw18Z6f7_LrahrvN4CV6RhJoE39cjDAaJQwSdiiBrQ0lUnb7PPHKPLDnBC.iZ2_9yLcyQXrq5_1?startTime=1712497748000)
 * [4/7 - React Lifting State Session](https://us06web.zoom.us/rec/share/6JscB3Sw18Z6f7_LrahrvN4CV6RhJoE39cjDAaJQwSdiiBrQ0lUnb7PPHKPLDnBC.iZ2_9yLcyQXrq5_1?startTime=1712513061000)
 * [4/8 - Lifting State Coding Warmup](https://us06web.zoom.us/rec/share/8czkrdQqHLxSqTf5trS8eH_Uy5K64BeA-HzePQlQoMig1elxl71Q_frgSAKk3Vjm.oZM2Xg_2kXrEImtr?startTime=1712615433000)
+* [4/9 - RSVP APP Lifting State Review Part 1](https://us06web.zoom.us/rec/share/-TAZ8-qCIvWMrMba7VvgyMRVcxolrCi-Wm5PTWGbSeAq0tPPHzM8lEU4PKbMx7nj.q5y0fJUer54iocCB?startTime=1712711352000)
