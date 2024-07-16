@@ -93,3 +93,5 @@
 * [7/2 - Express/React Fitness App Demo Part 2](https://us06web.zoom.us/rec/share/64K8xFVIr9-IE2T7yxUUAQWIoCWwMUuC80mgZlGpe5Lfps52Tf0vHVbt14j2NnI5.76KXKrMibCfB9Uz3?startTime=1719963305000)
 * [7/3 - Budgeting App Kick Off](https://us06web.zoom.us/rec/share/ZE_9I9gbbelZSsw45QEzZ1IwrO5ON2cbOVXgyU9XnlPAtHQh1zf3uf2evU671_25.jX_dtuj8Le_Gi2Yg?startTime=1720008823000)
 * [7/7 - Backend Deployment Walkthrough](https://us06web.zoom.us/rec/share/PDJZr8iWc5_IrD13g_uIdma92EFkwm82uZhZSXi-E7-2mUV3i6MKb8loOsctC5EI.2Eli82Vo7VdP8TOH?startTime=1720377119000)
+* [7/14 - Intro to SQL Joins Lesson](https://us06web.zoom.us/rec/share/NJ0Z_TqqdIFbmVVDnQfYsdVq0RxpbQatUpcBZ3m5f8-YY1oGaj38l7AIEc3hxWvK.3a36KtuLJh4b3Eot?startTime=1720965619000)
+* [7/15 - Intro to SQL Lab Walkthrough](https://us06web.zoom.us/rec/share/b7NzL2jEwTfPpCtmEPvI7tod7uaSYQExKQW2Sr-3DlIPi5CH8OwfUkH4g_kqsNdb.6TNyMBYJdjDT_jP-?startTime=1721086441000)
