@@ -95,3 +95,4 @@
 * [7/7 - Backend Deployment Walkthrough](https://us06web.zoom.us/rec/share/PDJZr8iWc5_IrD13g_uIdma92EFkwm82uZhZSXi-E7-2mUV3i6MKb8loOsctC5EI.2Eli82Vo7VdP8TOH?startTime=1720377119000)
 * [7/14 - Intro to SQL Joins Lesson](https://us06web.zoom.us/rec/share/NJ0Z_TqqdIFbmVVDnQfYsdVq0RxpbQatUpcBZ3m5f8-YY1oGaj38l7AIEc3hxWvK.3a36KtuLJh4b3Eot?startTime=1720965619000)
 * [7/15 - Intro to SQL Lab Walkthrough](https://us06web.zoom.us/rec/share/b7NzL2jEwTfPpCtmEPvI7tod7uaSYQExKQW2Sr-3DlIPi5CH8OwfUkH4g_kqsNdb.6TNyMBYJdjDT_jP-?startTime=1721086441000)
+* [7/16 - Express and SQL Seed and Read Lesson](https://us06web.zoom.us/rec/share/am3PkjAp975fwdDxcCW0id1dPqTMX82wzGrrTkghKJNajko6qqABvRQlnvscMJFm.rDtC_h8Ar0-od-pH?startTime=1721172621000)
