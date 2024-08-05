@@ -96,3 +96,7 @@
 * [7/14 - Intro to SQL Joins Lesson](https://us06web.zoom.us/rec/share/NJ0Z_TqqdIFbmVVDnQfYsdVq0RxpbQatUpcBZ3m5f8-YY1oGaj38l7AIEc3hxWvK.3a36KtuLJh4b3Eot?startTime=1720965619000)
 * [7/15 - Intro to SQL Lab Walkthrough](https://us06web.zoom.us/rec/share/b7NzL2jEwTfPpCtmEPvI7tod7uaSYQExKQW2Sr-3DlIPi5CH8OwfUkH4g_kqsNdb.6TNyMBYJdjDT_jP-?startTime=1721086441000)
 * [7/16 - Express and SQL Seed and Read Lesson](https://us06web.zoom.us/rec/share/am3PkjAp975fwdDxcCW0id1dPqTMX82wzGrrTkghKJNajko6qqABvRQlnvscMJFm.rDtC_h8Ar0-od-pH?startTime=1721172621000)
+* [7/21 - Backend and DB deployment](https://us06web.zoom.us/rec/share/pOetBe4EJyiBJla7s-xdTwLzuwtUK49SDCsXr4cD-Th-6h_W2cqGRZufceLRvbax.lxcmEC8exmDbtgtt?startTime=1721578592000)
+* [7/28 - One to Many Backend Lesson](https://us06web.zoom.us/rec/share/QKP7J-NRBD_vdxToU85ju4dKMaLG8bPa-7huM2N0FznNZLszgb81fMaCIB4ukv2d.KNSZUfIP4Cvfjtss?startTime=1722178934000)
+* [8/4 - Many to Many Lesson Part 1](https://us06web.zoom.us/rec/share/4-n6yUre73IGai15RQBLIh7vaBWK5sjM3TrjMSl9v8jzBjCy5bCuPmQrMFDYZfv5.L2UONrFQe1i6gR4S?startTime=1722785423000)
+* [8/4 - Tuner App Part 5](https://us06web.zoom.us/rec/share/4-n6yUre73IGai15RQBLIh7vaBWK5sjM3TrjMSl9v8jzBjCy5bCuPmQrMFDYZfv5.L2UONrFQe1i6gR4S?startTime=1722802048000)
