@@ -100,3 +100,7 @@
 * [7/28 - One to Many Backend Lesson](https://us06web.zoom.us/rec/share/QKP7J-NRBD_vdxToU85ju4dKMaLG8bPa-7huM2N0FznNZLszgb81fMaCIB4ukv2d.KNSZUfIP4Cvfjtss?startTime=1722178934000)
 * [8/4 - Many to Many Lesson Part 1](https://us06web.zoom.us/rec/share/4-n6yUre73IGai15RQBLIh7vaBWK5sjM3TrjMSl9v8jzBjCy5bCuPmQrMFDYZfv5.L2UONrFQe1i6gR4S?startTime=1722785423000)
 * [8/4 - Tuner App Part 5](https://us06web.zoom.us/rec/share/4-n6yUre73IGai15RQBLIh7vaBWK5sjM3TrjMSl9v8jzBjCy5bCuPmQrMFDYZfv5.L2UONrFQe1i6gR4S?startTime=1722802048000)
+* [8/5 - Many to Many Lesson](https://us06web.zoom.us/rec/share/M_FztB7o4gs-5tRtO4LNPoSxFFW759rJrywxkb9UTWSbKqgRoqxNDXN-ffS-z-0.V_ihyk7bioPio6bk?startTime=1722901352000)
+* [8/6 - Tuner App Front End](https://us06web.zoom.us/rec/share/vUuXsMk3NUc_XEM1OQqihqqyAZnTSKQNHWRKZMCysTinLzSDT5rCxe-kx5T31Q.EDJwE8DLBCiIOl3k?startTime=1722987226000)
+* [8/11 - Working with Cody AI](https://us06web.zoom.us/rec/share/XPP23AvcFNYXVWSPZOoub_TwnmfvaFfceoFzDDlzbzhZwIFT9eBKqVo1uMPWSMLG.rPkeZCy2AXcWjgtj?startTime=1723406728000)
+* [8/20 - User Centered Design with Will](https://us06web.zoom.us/rec/share/banOGStFk3Cp7pU2rVPJaYFglDh6XERhfig5J9rSIVdmmpaWJLRoXAkYs8ce0d4A.pk4Fs3tfdBgP0nUb?startTime=1724194934000)
