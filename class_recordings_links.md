@@ -104,3 +104,5 @@
 * [8/6 - Tuner App Front End](https://us06web.zoom.us/rec/share/vUuXsMk3NUc_XEM1OQqihqqyAZnTSKQNHWRKZMCysTinLzSDT5rCxe-kx5T31Q.EDJwE8DLBCiIOl3k?startTime=1722987226000)
 * [8/11 - Working with Cody AI](https://us06web.zoom.us/rec/share/XPP23AvcFNYXVWSPZOoub_TwnmfvaFfceoFzDDlzbzhZwIFT9eBKqVo1uMPWSMLG.rPkeZCy2AXcWjgtj?startTime=1723406728000)
 * [8/20 - User Centered Design with Will](https://us06web.zoom.us/rec/share/banOGStFk3Cp7pU2rVPJaYFglDh6XERhfig5J9rSIVdmmpaWJLRoXAkYs8ce0d4A.pk4Fs3tfdBgP0nUb?startTime=1724194934000)
+* [9/3 - Staging Module Kick Off](https://us06web.zoom.us/rec/share/RgprOT7_vrhIaBimcUk0hNCmrlMVS94a1DDjHbBWiXfbL2qCVijSsNNo5jpoYyN8.3WTIsmUNUYBbA3Pl?startTime=1725404784000)
+* [9/8 - OOP Lesson Part 1](https://us06web.zoom.us/rec/share/heSinUFtGpU9mmtPjalEUiVvwKZXmlnSXyHVpfrMWChtmXeXzmrYA6kthcV8quvS.a6VPYWYNK0rPu1rz?startTime=1725820217000)
