@@ -106,3 +106,6 @@
 * [8/20 - User Centered Design with Will](https://us06web.zoom.us/rec/share/banOGStFk3Cp7pU2rVPJaYFglDh6XERhfig5J9rSIVdmmpaWJLRoXAkYs8ce0d4A.pk4Fs3tfdBgP0nUb?startTime=1724194934000)
 * [9/3 - Staging Module Kick Off](https://us06web.zoom.us/rec/share/RgprOT7_vrhIaBimcUk0hNCmrlMVS94a1DDjHbBWiXfbL2qCVijSsNNo5jpoYyN8.3WTIsmUNUYBbA3Pl?startTime=1725404784000)
 * [9/8 - OOP Lesson Part 1](https://us06web.zoom.us/rec/share/heSinUFtGpU9mmtPjalEUiVvwKZXmlnSXyHVpfrMWChtmXeXzmrYA6kthcV8quvS.a6VPYWYNK0rPu1rz?startTime=1725820217000)
+* [9/16 - Ideation Pitch with CK and Greg](https://us06web.zoom.us/rec/share/pFpOl-wQ_zVGV69CzjAr0LcvznJ4JuDka4oclYVxrXZEPGVGEHEN2h3U1BBp8RfK.Sym1DoRokHNTvpVV?startTime=1726527859000)
+* [9/17 - Logo Design Workshop with Raquel](https://us06web.zoom.us/rec/share/GPxde9OJIPRhlazGgBd8wjs1jEYTdd0CfWllQ-QC843XEkPBsD8t_kS1Cin_FPyk.I-uV8vUOQMBtHgox?startTime=1726614018000)
+* [9/22 - Technical Interviews Workshop with Paul](https://us06web.zoom.us/rec/share/mh6CAIYEBYI4pZVCkrbB5EN7DariO6q2cDoXLJnwlU5h85gRcD3NfUX_1TIeP0ti.v2LcmusceXLkW1T9?startTime=1727013681000)
