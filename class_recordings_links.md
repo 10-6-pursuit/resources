@@ -109,3 +109,4 @@
 * [9/16 - Ideation Pitch with CK and Greg](https://us06web.zoom.us/rec/share/pFpOl-wQ_zVGV69CzjAr0LcvznJ4JuDka4oclYVxrXZEPGVGEHEN2h3U1BBp8RfK.Sym1DoRokHNTvpVV?startTime=1726527859000)
 * [9/17 - Logo Design Workshop with Raquel](https://us06web.zoom.us/rec/share/GPxde9OJIPRhlazGgBd8wjs1jEYTdd0CfWllQ-QC843XEkPBsD8t_kS1Cin_FPyk.I-uV8vUOQMBtHgox?startTime=1726614018000)
 * [9/22 - Technical Interviews Workshop with Paul](https://us06web.zoom.us/rec/share/mh6CAIYEBYI4pZVCkrbB5EN7DariO6q2cDoXLJnwlU5h85gRcD3NfUX_1TIeP0ti.v2LcmusceXLkW1T9?startTime=1727013681000)
+* [10/15 - User Story Workshop with Stefano](https://us06web.zoom.us/rec/share/LjHMjGODQL3CnSEuXa_WPW-n4irPuNgcEaM84p_54Flo141F2yZbEMe8eaBZXjiG.cj_TBaZZUPIT_Tks?startTime=1729033403000)
